@@ -8,5 +8,8 @@
   "private": false,
   "devDependencies": {
     "express": "^4.16.3"
+  },
+  "dependencies": {
+    "socket.io": "^2.1.1"
   }
 }
